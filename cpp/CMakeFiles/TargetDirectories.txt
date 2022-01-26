@@ -1,0 +1,3 @@
+/home/ascend/spatial_mapping/ZED_spatial_mapping_testing/cpp/CMakeFiles/rebuild_cache.dir
+/home/ascend/spatial_mapping/ZED_spatial_mapping_testing/cpp/CMakeFiles/edit_cache.dir
+/home/ascend/spatial_mapping/ZED_spatial_mapping_testing/cpp/CMakeFiles/ZED_Point_Cloud_Mapping.dir
